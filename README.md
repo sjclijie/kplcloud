@@ -1,5 +1,5 @@
 # Ref
-![如何快速部署容器化应用](https://juejin.im/post/5db7d7b2e51d452a2b727a76?utm_source=gold_browser_extension)
+[如何快速部署容器化应用](https://juejin.im/post/5db7d7b2e51d452a2b727a76?utm_source=gold_browser_extension)
 
 # kplcloud
 
